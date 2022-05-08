@@ -1,2 +1,2 @@
-# Derivative-Pricing-
+# Derivative-Pricing
 Naive Derivative Pricing [C# and Python]
