@@ -1,4 +1,4 @@
 # Derivative-Pricing
-Derivative Pricing [C# and Python]
+Derivative Pricing [C#, Python, and C++]
 
 Still Updating......
